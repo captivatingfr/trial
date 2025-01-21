@@ -1,2 +1,3 @@
 # trial
-This is my public Git Repository
+This is my first Git Repository
+Author - captivating
